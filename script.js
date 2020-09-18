@@ -4,7 +4,12 @@
 
 // })
 
+
 var button = document.getElementById("btnid");
+var button = document.getElementById("btnid");
+var button = document.getElementById("btnid");
+var button = document.getElementById("btnid");
+
 
 button.addEventListener("click", (e) => {
   e.preventDefault();
