@@ -9,6 +9,6 @@ how this APP works?
 
 2.On entering the texts, table will get generated which contain the word and its frequency of occurences.
 
-3. Along with the tabe generation, chart of the frequency vs word on the app.
+3.Along with the tabe generation, chart of the frequency vs word on the app.
 
 
